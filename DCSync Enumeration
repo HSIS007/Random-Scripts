@@ -1,4 +1,4 @@
-Using RSAT and ActiveDirectory module to enumerate DCSync rights, this tehcnique bypasses crowdstrike detection:
+# Using RSAT and ActiveDirectory module to enumerate DCSync rights, this tehcnique bypasses crowdstrike detection:
 
 The “DS-Replication-Get-Changes” extended right
 CN: DS-Replication-Get-Changes
